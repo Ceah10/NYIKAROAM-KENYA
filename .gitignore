@@ -1,0 +1,22 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
