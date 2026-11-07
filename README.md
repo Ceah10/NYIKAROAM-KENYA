@@ -1,3 +1,4 @@
+![Nyikaroam Kenya Banner](assets/nyikaroam-banner.png)
 # 🇰🇪 NYIKAROAM KENYA
 
 ### AI-Powered Tourism and Destination Discovery Platform
